@@ -53,7 +53,7 @@ Home-based sleep recordings
             │
             ├───────────────┐
             ▼               ▼
-  Intervention data    Clinical data
+  Intervention data    Macrostructural features + Metadata
             │               │
             └───────┬───────┘
                     ▼
